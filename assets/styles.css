@@ -73,5 +73,5 @@
     border-bottom: thin transparent solid;
 }
 .container:nth-child(odd){
-    background-color: rgba(75, 180, 0, 0.5);
+    background-color: rgba(145, 180, 0, 0.5);
 }
